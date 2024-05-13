@@ -13,12 +13,13 @@ I also work on a Web2 company to make a website (Frontend/Backend/Backoffice) li
 I'm also a bug hunter/auditor and a security researcher on Blockchain/Web3, mostly on Ethereum and Solana chain. I'm very passionate with Zk Rollup and bridge/cross-chain technologies.
 I made a lot of audits on Code4rena and hunting bugs on ImmuneFi.
 
-You can see my Code4rena profile to see my previous public audits ---> 
+You can see my Code4rena profile to see my previous public audits
 <br>
 [<img src="https://avatars.githubusercontent.com/u/79111793?s=200&v=4" width="50" height="50">](https://code4rena.com/@Fulum)
 
 
-### 📫 You can join me on Twitter or on Linkedin:
+### 📫 You can join me on X/Twitter or on Linkedin:
 
-  [![Twitter URL](https://img.freepik.com/vecteurs-libre/nouvelle-conception-icone-x-du-logo-twitter-2023_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1715558400&semt=ais_user)](https://twitter.com/0xFulum)
-    [![Linkedin URL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKs8r8Zd_xOz-qdO6Mk9bQXGh-CP4kiHqJtIsZ2CP2Q&s)](https://www.linkedin.com/in/axel-aramburu-78b233256/)
+[<img src="https://avatars.githubusercontent.com/u/79111793?s=200&v=4](https://img.freepik.com/vecteurs-libre/nouvelle-conception-icone-x-du-logo-twitter-2023_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1715558400&semt=ais_user" width="50" height="50">](https://twitter.com/0xFulum)
+
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKs8r8Zd_xOz-qdO6Mk9bQXGh-CP4kiHqJtIsZ2CP2Q&s" width="50" height="50">](https://www.linkedin.com/in/axel-aramburu-78b233256/)
