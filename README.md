@@ -13,9 +13,7 @@ I also work on a Web2 company to make a website (Frontend/Backend/Backoffice) li
 I'm also a bug hunter/auditor and a security researcher on Blockchain/Web3, mostly on Ethereum and Solana chain. I'm very passionate with Zk Rollup and bridge/cross-chain technologies.
 I made a lot of audits on Code4rena and hunting bugs on ImmuneFi.
 
-You can see my Code4rena profile to see my previous public audits: 
-  [![Code4rena URL](https://avatars.githubusercontent.com/u/79111793?s=200&v=4)](https://code4rena.com/@Fulum)
-[!<img src="https://avatars.githubusercontent.com/u/79111793?s=200&v=4" width="100" height="100">](https://code4rena.com/@Fulum)
+You can see my Code4rena profile to see my previous public audits ---> [<img src="https://avatars.githubusercontent.com/u/79111793?s=200&v=4" width="50" height="50">](https://code4rena.com/@Fulum)
 
 
 ### 📫 You can join me on Twitter or on Linkedin:
