@@ -2,7 +2,6 @@
 Hi, I'm a Smart Contract Web3 developer, worked for some projects, mainly for startups where I wrote and deploy smart contracts mostly in Solidity, made wallet integrations, made frontend integrations, manage databases, etc..
 I also work on a Web2 company to make a website (Frontend/Backend/Backoffice) like Amazon/Ebay from scratch.
 
-
 ### 👷Projects : 
    There are a list of **public projects** I worked on: 
    - [Cicleo](https://cicleo.io/)
@@ -23,6 +22,24 @@ You can see my Code4rena profile to see my previous public audits :
 <br>
 [<img src="https://avatars.githubusercontent.com/u/79111793?s=200&v=4" width="50" height="50">](https://code4rena.com/@Fulum)
 
+## ✅ Languages/Tech I work with : 
+
+   🪙 **Web3 :**
+   - Solidity / Rust / Yul / HUFF / Compiler
+   - Ethers / Web3.js/rs / Anchor
+   - Foundry / Hardhat
+
+   🖌️ **Frontend :**
+   - JavaScript / TypeScript / React / Next.js
+   - HTML / CSS / SASS / Tailwind
+   - MUI / Mantine / Chakra UI
+
+   🪛 **Backend :**
+   - Node.JS
+   - Express / Fastify
+   - ElasticSearch / Kibana
+   - RabbitMQ
+   - SQL / MongoDB / MariaDB
 
 ## 📫 You can join me on X/Twitter or on Linkedin:
 
