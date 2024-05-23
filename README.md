@@ -11,7 +11,7 @@ I also work on a Web2 company to make a website (Frontend/Backend/Backoffice) li
 
    There are a list of **private projects** I worked on: 
    - Zoma Okaz (Website like Ebay/Amazon), project in progress...
-   - MEV Bot on Solana and Ethereum chains with fork of local blockchain and deployement of full node on each chains
+   - MEV Arbitrage Bot on Solana and Ethereum chains
 
 ## Security Researcher 🛡️
 I'm also a bug hunter/auditor and a security researcher on Blockchain/Web3, mostly on Ethereum and Solana chain. I'm very passionate with Zk Rollup and bridge/cross-chain technologies.
