@@ -10,7 +10,7 @@ I also work on a Web2 company to make a website (Frontend/Backend/Backoffice) li
    - [Next.js Fake Store](https://github.com/AxelAramburu/test-pic-digitl)
 
    There are a list of **private projects** I worked on: 
-   - Zoma Okaz (Website like Ebay/Amazon), project in progress...
+   - More a Web2 project, a Website like Ebay/Amazon for a web agency, project in progress...
    - MEV Arbitrage Bot on Solana and Ethereum chains
 
 ## Security Researcher 🛡️
