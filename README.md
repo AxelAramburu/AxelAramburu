@@ -18,6 +18,24 @@ I'm also a bug hunter/auditor and a security researcher on Blockchain/Web3, most
 I made a lot of audits on Code4rena and hunting bugs on ImmuneFi.
 I audits projects like DEX/AMM, NFT's game, Staking protocol, Crosschain bridge, ZK projects, Uniswap V4 Fork, etc
 
+| Project audited  | Risk      | Description                                                                                                       | Platform |
+|------------------|-----------|-------------------------------------------------------------------------------------------------------------------|----------|
+| AI Arena         |     x     |                                                 x                                                                 | C4       |
+|       x          | High-risk | Non-transferable GameItems can be transferred with GameItems::safeBatchTransferFrom(...)                          |          |
+|       x          | High-risk | A locked fighter can be transferred; leads to game server unable to commit transactions, and unstoppable fighters |          |
+|       x          | High-risk | FighterFarm:: reroll won't work for nft id greator than 255 due to input limited to uint8                         |          |
+| Next Gen         |     x     |                                                 x                                                                 | C4       |
+|       x          | High-risk | Attacker can drain all ETH from AuctionDemo when block.timestamp == auctionEndTime                                |          |
+|       x          | Med-risk  | On an Exponential Descending Sale Model, minting on the last `block.timestamp` mint at an unexpected price.       |          |
+| Wildcat Protocol |     x     |                                                 x                                                                 | C4       |
+|       x          | High-risk | Borrower has no way to update `maxTotalSupply` of `market` or close market.                                       |          |
+|       x          | High-risk | Lenders can escape the blacklisting of their accounts because they can move their MarketTokens to diffents ...    |          |
+| PRIVATE PROJECT  |     x     |                                                 x                                                                 | Immunefi |
+|       x          | High-risk | PRIVATE REPORT (Bridge related issue)                                                                             |          |
+| PRIVATE PROJECT  |     x     |                                                 x                                                                 | Immunefi |
+|       x          | Med-risk  | PRIVATE REPORT (AMM pool related issue)                                                                           |          |
+etc...
+
 You can see my Code4rena profile to see my previous public audits : 
 <br>
 [<img src="https://avatars.githubusercontent.com/u/79111793?s=200&v=4" width="50" height="50">](https://code4rena.com/@Fulum)
