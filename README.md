@@ -18,7 +18,7 @@ I'm also a bug hunter/auditor and a security researcher on Blockchain/Web3, most
 I made a lot of audits on Code4rena and hunting bugs on ImmuneFi.
 I audits projects like DEX/AMM, NFT's game, Staking protocol, Crosschain bridge, ZK projects, Uniswap V4 Fork, etc
 
-| Project audited  | Risk      | Description                                                                                                       | Platform |
+| Project audited  | Risk      | Issue                                                                                                             | Platform |
 |------------------|-----------|-------------------------------------------------------------------------------------------------------------------|----------|
 | AI Arena         |     x     |                                                 x                                                                 | C4       |
 |       x          | High-risk | Non-transferable GameItems can be transferred with GameItems::safeBatchTransferFrom(...)                          |          |
