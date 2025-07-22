@@ -1,17 +1,12 @@
 ## Developer 👨‍💻
-Hi, I'm a Smart Contract Web3 developer, worked for some projects, mainly for startups where I wrote and deploy smart contracts mostly in Solidity, made wallet integrations, made frontend integrations, manage databases, etc..
-I also work on a Web2 company to make a website (Frontend/Backend/Backoffice) like Amazon/Ebay from scratch.
+Hi, I'm a Smart Contract Web3 developer, worked for some projects, mainly for startups where I wrote and deploy smart contracts mostly in Solidity, made wallet integrations, frontend integrations, manage databases, etc..
+I actually working as a full stack developer/QA Engineer in a Web2 company where we're building solutions for sport broadcasting live and replays.
 
 ### 👷Projects : 
-   There are a list of **public projects** I worked on: 
-   - [Cicleo](https://cicleo.io/)
-   - [Cicleo Smart Contract](https://github.com/CicleoPayment/contract_subscription)
+   There are a list of **public projects** I worked on for Web3: 
+   - [MEV Arbitrage Bot on Solana and Ethereum chains](https://github.com/AxelAramburu/MEV_Bot_Solana)
    - [Solana cNft Program](https://github.com/AxelAramburu/solana-c-nft)
    - [Next.js Fake Store](https://github.com/AxelAramburu/test-pic-digitl)
-
-   There are a list of **private projects** I worked on: 
-   - More a Web2 project, a Website like Ebay/Amazon for a web agency, project in progress...
-   - MEV Arbitrage Bot on Solana and Ethereum chains
 
 ## Security Researcher 🛡️
 I'm also a bug hunter/auditor and a security researcher on Blockchain/Web3, mostly on Ethereum and Solana chain. I'm very passionate with Zk Rollup and bridge/cross-chain technologies.
@@ -34,6 +29,8 @@ I audits projects like DEX/AMM, NFT's game, Staking protocol, Crosschain bridge,
 |       x          | High-risk | PRIVATE REPORT (Bridge related issue)                                                                             |          |
 | PRIVATE PROJECT  |     x     |                                                 x                                                                 | Immunefi |
 |       x          | Med-risk  | PRIVATE REPORT (AMM pool related issue)                                                                           |          |
+| PRIVATE PROJECT  |     x     |                                                 x                                                                 | Immunefi |
+|       x          | Med-risk  | PRIVATE REPORT (Lending/Borrow protocol related issue)                                                            |          |
 etc...
 
 You can see my Code4rena profile to see my previous public audits : 
