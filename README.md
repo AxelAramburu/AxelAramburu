@@ -5,7 +5,7 @@ I actually working as a full stack developer/QA Engineer in a Web2 company where
 ### 👷Projects : 
    There are a list of **public projects** I worked on for Web3: 
    - [MEV Arbitrage Bot on Solana and Ethereum chains](https://github.com/AxelAramburu/MEV_Bot_Solana)
-   - [Solana cNft Program](https://github.com/AxelAramburu/solana-c-nft)
+   - [Solana CrowdFunding Program](https://github.com/AxelAramburu/program-AxelAramburu)
    - [Next.js Fake Store](https://github.com/AxelAramburu/test-pic-digitl)
 
 ## Security Researcher 🛡️
